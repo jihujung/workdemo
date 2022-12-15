@@ -90,4 +90,4 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver](https://siape.veta.naver.com/fxclick?eu=EU10041888&calp=-&oj=A4YjrwVVtw%2BALild4XMeob%2F1%2B%2F1BqpAJasrZoU6h17WEb5CVXzKGkP%2F2w%2ByDn4CtMRHSau0cWMuHiK67DmenrJDa%2BNUuE6p%2Bv6z0FrvzxZ0y2nayL6jKM%2FW1YEqVwubmAQMCMuhPEN1eKWECU5F7nTQem84u8kvYXUB%2BB1R%2FuHxgkKVnhxT4LAW7e8xhqryJmlNdzxHRD0DeJDmm0Zo1b%2Bvb%2F27Z7%2BpZEFwetYPeoFYdxVOpSpGuiGS2qoSIJo0iY6yz0QWBfjw&ac=8690453&src=6235701&br=4093028&evtcd=P901&x_ti=1308&tb=&oid=&sid1=&sid2=&rk=0853b8668d6d3b3bd8a3b78fff5337cf&eltts=gTMjrW7O2Ste1TjU%2BrYsyw%3D%3D&lu=&brs=Y&)
+![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_728x360_112955548973432846.jpeg)
