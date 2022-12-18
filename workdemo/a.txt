@@ -3,4 +3,3 @@ world
 foot
 ankle
 knee
-pelvic
