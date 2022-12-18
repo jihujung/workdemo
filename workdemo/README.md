@@ -72,3 +72,27 @@
     System.out.println("Hello Java");
   }
 ```
+
+### 글자 강조
+
+**굵은 글씨**
+_이텔릭_
+_이텔릭_
+~~취소선~~
+<u>밑줄</u>
+
+### 링크(Links)
+
+[naver](https://www.naver.com)
+[link](a.txt)
+
+다음 홈페이지 : <https://www.daum.net/>
+
+### 이미지(images)
+
+![naver](https://s.pstatic.net/static/www/mobile/edit/20221214/cropImg_728x360_112955548973432846.jpeg)
+
+![box](images/%EC%B9%98%ED%82%A8.jpg)
+[![daum](images/daum.png)](http://www.daum.net/)
+
+<img src='images/daum.png' alt='daum'>
